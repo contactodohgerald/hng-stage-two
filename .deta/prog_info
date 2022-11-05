@@ -1,0 +1,1 @@
+{"id":"ef1c7c4f-9b8c-4266-bcb1-5f4b51497533","space":37131,"runtime":"nodejs14.x","name":"hng_task","path":"r5883u","project":"a05dwqtq","account":"144798365827","region":"eu-central-1","deps":["express@^4.18.2"],"envs":null,"public":true,"log_level":"off","cron":""}
